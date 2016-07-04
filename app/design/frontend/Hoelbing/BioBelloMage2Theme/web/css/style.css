@@ -1,0 +1,15 @@
+#store.menu, .panel.wrapper, .minicart-wrapper {
+    /*background-color: #03c11b;*/
+    background-color: #ffffff;
+}
+
+#ui-id-2 {
+    background-color: #ffffff;
+}
+
+#ui-id-3, #ui-id-4{
+    color: #000000;
+}
+.page-wrapper {
+    background-color: #03c11b;
+}
